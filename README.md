@@ -1,1 +1,1 @@
-# MiniHakell
+# MiniHaskell
